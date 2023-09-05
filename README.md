@@ -75,6 +75,37 @@ Now I'm interested in mobile development, so I'm studying the different ways to 
 <a href="#"> <img alt="kotlin" src="https://img.shields.io/badge/kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> </a>
 
 ---
+
+### System 💻
+If you're curious about what things I use in my system, there is an overview
+
+<a href="#">
+  <img alt="arch linux" src="https://img.shields.io/badge/arch_linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+</a>
+<a href="#">
+  <img alt="alacritty" src="https://img.shields.io/badge/alacritty-222222?style=for-the-badge&logo=alacritty" />
+</a>
+<a href="#">
+  <img alt="vim" src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
+</a>
+<a href="#">
+  <img alt="zsh" src="https://img.shields.io/badge/awesome-1A2C2E?style=for-the-badge&logo=awesomewm&logoColor=white" />
+</a>
+
+---
+
+### Find me
+Finally, if you want to write some code together or just hangout, or even send me an email
+
+<a href="#" target="_blank">
+  <img alt="discord" src="https://img.shields.io/badge/Jovem_Blood_%233338-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/thiago-p3ixot0/" target="_blank">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
 <div>
   <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jovem-blood&layout=compact&langs_count=7&theme=tokyonight"/>
   <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=jovem-blood&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
