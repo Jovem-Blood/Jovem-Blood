@@ -76,7 +76,7 @@ Now I'm interested in mobile development, so I'm studying the different ways to 
 
 ---
 
-### System 💻
+### 💻 System
 If you're curious about what things I use in my system, there is an overview
 
 <a href="#">
@@ -94,10 +94,10 @@ If you're curious about what things I use in my system, there is an overview
 
 ---
 
-### Find me
-Finally, if you want to write some code together or just hangout, or even send me an email
+### 🔍 Find me
+Finally, if you want to write some code together or just talk with me
 
-<a href="#" target="_blank">
+<a href="#">
   <img alt="discord" src="https://img.shields.io/badge/Jovem_Blood_%233338-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/thiago-p3ixot0/" target="_blank">
